@@ -29,7 +29,7 @@ module Theneighborhood
 
     # Don't generate system test files.
     config.generators.system_tests = nil
-    config.web_console.whitelisted_ips << "50.204.186.55"
+   # config.web_console.whitelisted_ips << "50.204.186.55"
     # config.web_console.whitelisted_ips = ''
 
   end
